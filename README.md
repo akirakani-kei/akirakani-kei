@@ -8,5 +8,5 @@
 <img src="https://github-readme-stats-keis-projects-065421cf.vercel.app/api/top-langs/?username=akirakani-kei&theme=dark&hide=vim%20script&langs_count=6&layout=compact&locale=ja" alt="Top Langs JA" align="left" />
 
 <br> <br>
-[![FractalUI](https://github.com/user-attachments/assets/d2dfd9fe-14bd-4cf4-bf34-3891684615a8)](https://github.com/akirakani-kei/FractalUI)
+[![FractalUI](https://github.com/user-attachments/assets/fa3b0414-85d5-4960-97d6-1372b4b8f240)](https://github.com/akirakani-kei/FractalUI)
 

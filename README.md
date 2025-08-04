@@ -12,3 +12,10 @@
     <img src="https://github.com/user-attachments/assets/d7715416-0895-4607-b7cc-d4d70168b40f" alt="FractalUI" width="600"/>
   </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/akirakani-kei/FractalUI">
+      <img src="https://github-readme-stats-keis-projects-065421cf.vercel.app/api/pin/?username=akirakani-kei&repo=FractalUI&theme=dark" alt="akirakani-kei/FractalUI">
+  </a>
+</p>
+

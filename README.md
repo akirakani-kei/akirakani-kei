@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/akirakani-kei/FractalUI">
-    <img src="https://github.com/user-attachments/assets/d7715416-0895-4607-b7cc-d4d70168b40f" alt="FractalUI" width="600"/>
+    <img src="https://github.com/user-attachments/assets/c3fa489b-e653-45d0-9a8b-708f635d2119" alt="FractalUI"/>
   </a>
 </p>
 

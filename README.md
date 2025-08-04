@@ -13,9 +13,3 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/akirakani-kei/FractalUI">
-      <img src="https://github-readme-stats-keis-projects-065421cf.vercel.app/api/pin/?username=akirakani-kei&repo=FractalUI&theme=dark" alt="akirakani-kei/FractalUI">
-  </a>
-</p>
-
